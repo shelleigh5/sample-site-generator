@@ -1,4 +1,13 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "hugrid"
+theme = "hugo-initio"
+
+[params]
+	name = "squidwrench"
+	description = "The First Hudson Valley Hackerspace"
+	showSubheader = true
+	showServices = true
+	showRecentWorks = true
+	showDownload = true
+	showClients = true
