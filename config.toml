@@ -11,3 +11,4 @@ theme = "hugo-initio"
 	showRecentWorks = true
 	showDownload = true
 	showClients = true
+	DateForm = "2 January 2006"
