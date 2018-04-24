@@ -1,6 +1,6 @@
 {
   "name": "hugo-theme-bootstrap4-blog",
-  "version": "0.0.1",
+  "version": "1.1.0",
   "description": "A Bootstrap v4 theme for the Hugo static site generator.",
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
   "author": "Alan Orth",
   "license": "GPL-3.0",
   "devDependencies": {
-    "bootstrap": "4.0.0",
+    "bootstrap": "4.1.0",
     "clean-css-cli": "^4.1.11",
     "cookieconsent": "^3.0.4",
     "font-awesome": "^4.7.0",
